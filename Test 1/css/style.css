@@ -1,0 +1,18 @@
+body {
+ background-image: url("https://www.swollenhippo.com/background.jpg");
+ height: 100%;
+ width: 100%;
+ margin: 0px;
+ background-size: auto;
+}
+
+img {
+border-radius: 50%;
+float: left;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
